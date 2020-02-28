@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Albina</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">"I'm a software engineer who loves building personalized android apps that helps people.
+        \n My latest job is relevant to precision agriculture and helps farmers around all over the world.
+        \n Right now, I'm working on improving my android skills, accomplish Udacity Nanodegree Program, and looking for a chance to take part in developing a project that enhances people's lives.
+    \n My friend asked me how often I check my social media. I thought it over, and I am ready to answer this question.
+I can't say that staying in touch isn't interesting at all. Time to time, I look for facts, check out photos on Instagram. But it would be a bit of stretch to say that I am glued to the screen by social media. I couldn't care less if I miss out on an update. It's profitable for me to look up to someone who is growing up and making progress. In the same time, I am playing hardball trying not to listen to word of mouth and trying to think outside the box.
+It's not possible for me to post my life online, communicate everything I do. We're short on time and duplicate our life's to social media is a waste of time and not worth it. But I don't want to disapprove others, for someones, it is their work, and they are doing great things. For example, it can be online courses. I adore this studying method!)
+What I am using that is instant messaging. I text my friends and family to ask or tell something about three times per day. It's crucial for me to be connected 24/7 to my family)
+Coming to an end, I want to say that it is up to us how to use social media and don't feel like"FOMO."
+    </string>
+    <string name="edit_hint">What is your  Nickname?</string>
+    <string name="done">Done</string>
+</resources>
